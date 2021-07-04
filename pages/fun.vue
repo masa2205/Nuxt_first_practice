@@ -1,3 +1,3 @@
 <template>
-    <h1>hoge</h1>
+    <NuxtLink to="/">Home page</NuxtLink>
 </template>

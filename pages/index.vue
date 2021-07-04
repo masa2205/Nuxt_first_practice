@@ -1,5 +1,9 @@
 <template>
-  <h1>Hello World</h1>
+  <main>
+    <h1>Home page</h1>
+    <NuxtLink to="/fun">About (internal link that belongs to the Nuxt App)</NuxtLink>
+    <a href="https://nuxtjs.org">Exteranl Link to another page</a>
+  </main>
 </template>
 
 <script>
